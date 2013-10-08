@@ -1,6 +1,4 @@
-import java.util.*; 
-
-public abstract class functii implements Function {
+public abstract class Functii implements Function {
 
 	static int number = 7;
 	
